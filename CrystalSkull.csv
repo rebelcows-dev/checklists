@@ -3,97 +3,97 @@ manufacturer,Topps
 name,Indiana Jones and the Kingdom of the Crystal Skull
 
 card_number,card_name,subset
-,1,The Return of Dr. Jones
-,2,Indiana Jones
-,3,Mutt Williams
-,4,Marion Ravenwood
-,5,Dr. Irina Spalko
-,6,"George ""Mac"" McHale"
-,7,"Harold ""Ox"" Oxley"
-,8,Colonel Dovchenko
-,9,Dean Charles Stanforth
-,10,General Ross
-,11,Agent Smith
-,12,Agent Taylor
-,13,Desert Troopers
-,14,Base under Siege!
-,15,Prisoner of the Reds
-,16,Two Battered Buddies
-,17,Invading Hangar 51
-,18,Mysterious Artifact
-,19,Jones Unleashed
-,20,Aiming for Action
-,21,The Truth about Mac
-,22,Score One for Indy!
-,23,The Rocket Sled
-,24,A Rocket Built for Two!
-,25,Welcome to Doom Town
-,26,Only One Way Out...
-,27,"Howdy, Stranger!"
-,28,The Destroyer of Worlds
-,29,At Marshall College
-,30,Is Indy a Commie?
-,31,In Search of ... Himself
-,32,A Shout for Help
-,33,A Guy Called Mutt
-,34,Indy Takes a Spin
-,35,The Sedan Chase
-,36,Nailing Mac
-,37,Landing in the Library
-,38,Heroes on the Run
-,39,A new Adventure Begins
-,40,So This Is Peru...
-,41,Within Chauchilla Cemetery
-,42,Into a Dark Domain
-,43,Indy's Discovery
-,44,Of Glory and Terror
-,45,Protector of the Past
-,46,Blow-Dart Attack
-,47,The Interrogation
-,48,Ox Holds the Key
-,49,Mutt and Marion
-,50,Trapped in the Sand Pit
-,51,The Unsinkable Dr. Jones?
-,52,Jungle Raiders
-,53,Dr. Jones and Company
-,54,Nailing Mac... Again!
-,55,Against a One-Man Army
-,56,Target: Marion!
-,57,From Switchblade to Sword
-,58,The Duel with Spalko
-,59,Keeping Up with the Caravan
-,60,Dovchenko vs. Indy
-,61,Triple Peril Escape!
-,62,Behold: Akator Temple
-,63,The Walls Come Alive!
-,64,The City of Doom
-,65,Terror of the Ughas
-,66,Saved by the Skull
-,67,Secret of the Temple
-,68,The Sands of Time
-,69,Spalko's Wish Fulfilled
-,70,The Demise of an Old Friend
-,71,A Promotion for Dr. Jones
-,72,Indy Forever!
-,73,Secrets of Akator
-,74,Crashing Down
-,75,Dealing with Danger
-,76,Art of the Temple
-,77,Running Out of Time
-,78,The Hypnotic Skull
-,79,Two Lost Worlds
-,80,Up and Onward
-,81,Deadliest of Dangers
-,82,Examining the Crystal Skull
-,83,Temples and Raiders
-,84,A Lost City Found
-,85,Adventure Has a Name...
-,86,Trouble in Hangar 51
-,87,Challenge of Dovchenko
-,88,Saved by the Fridge
-,89,Atom-Age Adventurer
-,90,Checklist
-CHASE CARDS
+1,The Return of Dr. Jones
+2,Indiana Jones
+3,Mutt Williams
+4,Marion Ravenwood
+5,Dr. Irina Spalko
+6,"George ""Mac"" McHale"
+7,"Harold ""Ox"" Oxley"
+8,Colonel Dovchenko
+9,Dean Charles Stanforth
+10,General Ross
+11,Agent Smith
+12,Agent Taylor
+13,Desert Troopers
+14,Base under Siege!
+15,Prisoner of the Reds
+16,Two Battered Buddies
+17,Invading Hangar 51
+18,Mysterious Artifact
+19,Jones Unleashed
+20,Aiming for Action
+21,The Truth about Mac
+22,Score One for Indy!
+23,The Rocket Sled
+24,A Rocket Built for Two!
+25,Welcome to Doom Town
+26,Only One Way Out...
+27,"Howdy, Stranger!"
+28,The Destroyer of Worlds
+29,At Marshall College
+30,Is Indy a Commie?
+31,In Search of ... Himself
+32,A Shout for Help
+33,A Guy Called Mutt
+34,Indy Takes a Spin
+35,The Sedan Chase
+36,Nailing Mac
+37,Landing in the Library
+38,Heroes on the Run
+39,A new Adventure Begins
+40,So This Is Peru...
+41,Within Chauchilla Cemetery
+42,Into a Dark Domain
+43,Indy's Discovery
+44,Of Glory and Terror
+45,Protector of the Past
+46,Blow-Dart Attack
+47,The Interrogation
+48,Ox Holds the Key
+49,Mutt and Marion
+50,Trapped in the Sand Pit
+51,The Unsinkable Dr. Jones?
+52,Jungle Raiders
+53,Dr. Jones and Company
+54,Nailing Mac... Again!
+55,Against a One-Man Army
+56,Target: Marion!
+57,From Switchblade to Sword
+58,The Duel with Spalko
+59,Keeping Up with the Caravan
+60,Dovchenko vs. Indy
+61,Triple Peril Escape!
+62,Behold: Akator Temple
+63,The Walls Come Alive!
+64,The City of Doom
+65,Terror of the Ughas
+66,Saved by the Skull
+67,Secret of the Temple
+68,The Sands of Time
+69,Spalko's Wish Fulfilled
+70,The Demise of an Old Friend
+71,A Promotion for Dr. Jones
+72,Indy Forever!
+73,Secrets of Akator
+74,Crashing Down
+75,Dealing with Danger
+76,Art of the Temple
+77,Running Out of Time
+78,The Hypnotic Skull
+79,Two Lost Worlds
+80,Up and Onward
+81,Deadliest of Dangers
+82,Examining the Crystal Skull
+83,Temples and Raiders
+84,A Lost City Found
+85,Adventure Has a Name...
+86,Trouble in Hangar 51
+87,Challenge of Dovchenko
+88,Saved by the Fridge
+89,Atom-Age Adventurer
+90,Checklist
+
 Foil Cards (1:6 packs)
 1 of 10,"(Indy [large] Mutt with sword)"
 2 of 10,(The Crystal Skull)
@@ -106,234 +106,234 @@ Foil Cards (1:6 packs)
 9 of 10,"(Skull, Indy with gun, Mutt with sword)"
 10 of 10,Indiana Jones - Trust Me - 1935
 Peel & Reveal Trap/Treasure Cards (1:6 Retail packs)
-,--,Crystal Skull! (montage Indy and Mutt; red/green border)
-,--,Giant Fire Ants! (montage Indy and Mutt; red border)
-,--,Holy Grail! (Indy portrait; red/green border)
-,--,Rats! (Indy portrait; red border)
-,--,The Idol! (Indy with whip at tent door; red border)
-,--,Snake! (Indy with whip at tent door; red/green border)
-,--,Poison! (Indy with whip and sword; red border)
-,--,Sankara Stone! (Indy with whip and sword; red/green border)
-,--,Ark of the Covenant
+--,Crystal Skull! (montage Indy and Mutt; red/green border)
+--,Giant Fire Ants! (montage Indy and Mutt; red border)
+--,Holy Grail! (Indy portrait; red/green border)
+--,Rats! (Indy portrait; red border)
+--,The Idol! (Indy with whip at tent door; red border)
+--,Snake! (Indy with whip at tent door; red/green border)
+--,Poison! (Indy with whip and sword; red border)
+--,Sankara Stone! (Indy with whip and sword; red/green border)
+--,Ark of the Covenant
 Foil Movie Cards (1:6 Target gravity-feed packs; orange backs)
-,F1,(Indy and soldiers)
-,F2,(Indy wielding whip)
-,F3,(Mutt on motorcycle)
-,F4,(Indy and Mutt with flashlights)
-,F5,(Indy and snake)
+F1,(Indy and soldiers)
+F2,(Indy wielding whip)
+F3,(Mutt on motorcycle)
+F4,(Indy and Mutt with flashlights)
+F5,(Indy and snake)
 Foil Movie Cards (1:6 WalMart gravity-feed packs; blue backs)
-,F1,
-,F2,(Indy aiming gun)
-,F3,(Mutt and Indy)
-,F4,
-,F5,
+F1,
+F2,(Indy aiming gun)
+F3,(Mutt and Indy)
+F4,
+F5,
 Foil Movie Cards (Dark Horse Comics; orange-back set in poly bag)
-,F1,
-,F2,
-,F3,
-,F4,
-,F5,
+F1,
+F2,
+F3,
+F4,
+F5,
 Autograph Cards (1:78 Hobby packs)
-,--,Karen Allen - Marion Ravenwood [right profile],2250
-,--,Jim Broadbent - Dean Charles Stanforth,1000
-,--,Alan Dale - General Ross,1000
-,--,Andrew Divoff,1000
-,--,Harrison Ford - Indiana Jones,8
-,--,"John Hurt - Harold ""Ox"" Oxley",1000
-,--,Igor Jijikine - Colonel Dovchenko [left profile],1250
-,--,David Koepp - Screenwriter,1000
-,--,Shia LaBeouf - Mutt Williams,1000
-,--,George Lucas,8
-,--,Pasha Lychnikoff,1000
-,--,Steven Spielberg - Director,8
-,--,"Ray Winstone - George ""Mac"" McHale",1000
-,--,"Shia LaBeouf and Karen Allen (1:551,554 packs)",1
-,--,"Harrison Ford, Steven Spielberg, George Lucas",1
+--,Karen Allen - Marion Ravenwood [right profile],2250
+--,Jim Broadbent - Dean Charles Stanforth,1000
+--,Alan Dale - General Ross,1000
+--,Andrew Divoff,1000
+--,Harrison Ford - Indiana Jones,8
+--,"John Hurt - Harold ""Ox"" Oxley",1000
+--,Igor Jijikine - Colonel Dovchenko [left profile],1250
+--,David Koepp - Screenwriter,1000
+--,Shia LaBeouf - Mutt Williams,1000
+--,George Lucas,8
+--,Pasha Lychnikoff,1000
+--,Steven Spielberg - Director,8
+--,"Ray Winstone - George ""Mac"" McHale",1000
+--,"Shia LaBeouf and Karen Allen (1:551,554 packs)",1
+--,"Harrison Ford, Steven Spielberg, George Lucas",1
 Autograph Cards (1:100 Target/WalMart gravity-feed packs)
-,--,Karen Allen - Marion Ravenwood [face forward] (1:200 packs)
-,--,Igor Jijikine - Colonel Dovchenko [face forward] (1:200 packs)
+--,Karen Allen - Marion Ravenwood [face forward] (1:200 packs)
+--,Igor Jijikine - Colonel Dovchenko [face forward] (1:200 packs)
 Artist Sketch Cards (1:35 Hobby packs)
-,--,Noah Albrecht,300
-,--,Kyle Babbitt,200
-,--,Paul Allan Ballard,100
-,--,Kate Bradley (Red),100
-,--,Spencer Brinkerhoff III,100
-,--,Dennis Budd,100
-,--,Alex Buechel,100
-,--,James Bukauskas (Bukshot),100
-,--,Matt Busch,100
-,--,Jeff Carlisle,100
-,--,Jeff Chandler,100
-,--,Hamilton Cline,100
-,--,Katie Cook-Wilcox,200
-,--,Dan Cooney,300
-,--,Joe Corroney,50
-,--,Doug Cowan,50
-,--,Cynthia Cummens,100
-,--,Ted Dastick Jr.,100
-,--,Brian Denham,500
-,--,Otto Dieffenbach,200
-,--,Kevin Doyle,300
-,--,Michael Duron,100
-,--,Chris Eliopoulos,100
-,--,Brent Engstrom,100
-,--,Tess Fowler,100
-,--,Dave Fox,100
-,--,Zach Giallongo,200
-,--,Kate Glasheen,150
-,--,Matthew Goodmanson,200
-,--,Grant Gould,1000
-,--,Art Grafunkel,100
-,--,Kevin Graham,100
-,--,Trevor Grove,25
-,--,Paul Gutierrez,140
-,--,Ingrid Hardy,150
-,--,Chris Henderson,535
-,--,Jessica Hickman,100
-,--,Tom Hodges,100
-,--,Adam Hughes,50
-,--,Jason Hughes,750
-,--,Ben Curtis Jones,100
-,--,Brian Kong,100
-,--,Karen Krajenbrink,300
-,--,Jim Kyle,140
-,--,Wayne Lo,100
-,--,Erik Maell,100
-,--,Leah Mangue,100
-,--,Randy Martinez,150
-,--,Clay McCormack,50
-,--,Mark McHaley,100
-,--,Peter McKinstry,125
-,--,Lord Mesa,80
-,--,Rich Molinelli (RAM),250
-,--,Nick Neocleous (NIK),100
-,--,William O'Neill,50
-,--,Steve Oatney,100
-,--,Jon Ocampo,200
-,--,Shelli Paroline,150
-,--,Don Pedicini Jr.,100
-,--,Sean Pence,100
-,--,Jason Keith Phillips,1000
-,--,Jason Potratz,27
-,--,Jason Potratz and Jack Hai,73
-,--,Amy Pronovost,100
-,--,Edward Pun,100
-,--,Mark Raats,50
-,--,David Rabbitte,100
-,--,Juan Carlos Ramos,100
-,--,Patrick Richardson,50
-,--,Brian Rood,100
-,--,Brent Schoonover,50
-,--,Howard Shum,600
-,--,Randy Siplon,100
-,--,Uko Smith,150
-,--,Jamie Snell,200
-,--,Jason Sobol,200
-,--,Cat Staggs,50
-,--,Jerry Vanderstelt,100
-,--,Christian Dalla Vecchia,500
-,--,Ryan Waterhouse,3015
-,--,John Watkins-Chow,100
-,--,Sarah Wilkinson,150
-,--,Marc Wolfe,60
-,--,Rich Woodall,250
-,--,Brent Woodside,3015
-,--,Stephanie Yue,200
+--,Noah Albrecht,300
+--,Kyle Babbitt,200
+--,Paul Allan Ballard,100
+--,Kate Bradley (Red),100
+--,Spencer Brinkerhoff III,100
+--,Dennis Budd,100
+--,Alex Buechel,100
+--,James Bukauskas (Bukshot),100
+--,Matt Busch,100
+--,Jeff Carlisle,100
+--,Jeff Chandler,100
+--,Hamilton Cline,100
+--,Katie Cook-Wilcox,200
+--,Dan Cooney,300
+--,Joe Corroney,50
+--,Doug Cowan,50
+--,Cynthia Cummens,100
+--,Ted Dastick Jr.,100
+--,Brian Denham,500
+--,Otto Dieffenbach,200
+--,Kevin Doyle,300
+--,Michael Duron,100
+--,Chris Eliopoulos,100
+--,Brent Engstrom,100
+--,Tess Fowler,100
+--,Dave Fox,100
+--,Zach Giallongo,200
+--,Kate Glasheen,150
+--,Matthew Goodmanson,200
+--,Grant Gould,1000
+--,Art Grafunkel,100
+--,Kevin Graham,100
+--,Trevor Grove,25
+--,Paul Gutierrez,140
+--,Ingrid Hardy,150
+--,Chris Henderson,535
+--,Jessica Hickman,100
+--,Tom Hodges,100
+--,Adam Hughes,50
+--,Jason Hughes,750
+--,Ben Curtis Jones,100
+--,Brian Kong,100
+--,Karen Krajenbrink,300
+--,Jim Kyle,140
+--,Wayne Lo,100
+--,Erik Maell,100
+--,Leah Mangue,100
+--,Randy Martinez,150
+--,Clay McCormack,50
+--,Mark McHaley,100
+--,Peter McKinstry,125
+--,Lord Mesa,80
+--,Rich Molinelli (RAM),250
+--,Nick Neocleous (NIK),100
+--,William O'Neill,50
+--,Steve Oatney,100
+--,Jon Ocampo,200
+--,Shelli Paroline,150
+--,Don Pedicini Jr.,100
+--,Sean Pence,100
+--,Jason Keith Phillips,1000
+--,Jason Potratz,27
+--,Jason Potratz and Jack Hai,73
+--,Amy Pronovost,100
+--,Edward Pun,100
+--,Mark Raats,50
+--,David Rabbitte,100
+--,Juan Carlos Ramos,100
+--,Patrick Richardson,50
+--,Brian Rood,100
+--,Brent Schoonover,50
+--,Howard Shum,600
+--,Randy Siplon,100
+--,Uko Smith,150
+--,Jamie Snell,200
+--,Jason Sobol,200
+--,Cat Staggs,50
+--,Jerry Vanderstelt,100
+--,Christian Dalla Vecchia,500
+--,Ryan Waterhouse,3015
+--,John Watkins-Chow,100
+--,Sarah Wilkinson,150
+--,Marc Wolfe,60
+--,Rich Woodall,250
+--,Brent Woodside,3015
+--,Stephanie Yue,200
 PROMO CARDS
-,P1,Continuing the Adventure (Indiana Jones Heritage Box-Topper)
-,P2,The Great Discovery (Indiana Jones Heritage Box-Topper)
-,P3,Indiana Jones (Indiana Jones Heritage Box-Topper)
-,P4,Dr. Jones and Company
-,P5,Within Chauchilla Cemetery
-,--,(dealer sell sheet; double sided)
+P1,Continuing the Adventure (Indiana Jones Heritage Box-Topper)
+P2,The Great Discovery (Indiana Jones Heritage Box-Topper)
+P3,Indiana Jones (Indiana Jones Heritage Box-Topper)
+P4,Dr. Jones and Company
+P5,Within Chauchilla Cemetery
+--,(dealer sell sheet; double sided)
 PARALLEL SKULL CARDS (1:24 packs; # to 350)
-,1,The Return of Dr. Jones
-,2,Indiana Jones
-,3,Mutt Williams
-,4,Marion Ravenwood
-,5,Dr. Irina Spalko
-,6,"George ""Mac"" McHale"
-,7,"Harold ""Ox"" Oxley"
-,8,Colonel Dovchenko
-,9,Dean Charles Stanforth
-,10,General Ross
-,11,Agent Smith
-,12,Agent Taylor
-,13,Desert Troopers
-,14,Base under Siege!
-,15,Prisoner of the Reds
-,16,Two Battered Buddies
-,17,Invading Hangar 51
-,18,Mysterious Artifact
-,19,Jones Unleashed
-,20,Aiming for Action
-,21,The Truth about Mac
-,22,Score One for Indy!
-,23,The Rocket Sled
-,24,A Rocket Built for Two!
-,25,Welcome to Doom Town
-,26,Only One Way Out...
-,27,"Howdy, Stranger!"
-,28,The Destroyer of Worlds
-,29,At Marshall College
-,30,Is Indy a Commie?
-,31,In Search of ... Himself
-,32,A Shout for Help
-,33,A Guy Called Mutt
-,34,Indy Takes a Spin
-,35,The Sedan Chase
-,36,Nailing Mac
-,37,Landing in the Library
-,38,Heroes on the Run
-,39,A new Adventure Begins
-,40,So This Is Peru...
-,41,Within Chauchilla Cemetery
-,42,Into a Dark Domain
-,43,Indy's Discovery
-,44,Of Glory and Terror
-,45,Protector of the Past
-,46,Blow-Dart Attack
-,47,The Interrogation
-,48,Ox Holds the Key
-,49,Mutt and Marion
-,50,Trapped in the Sand Pit
-,51,The Unsinkable Dr. Jones?
-,52,Jungle Raiders
-,53,Dr. Jones and Company
-,54,Nailing Mac... Again!
-,55,Against a One-Man Army
-,56,Target: Marion!
-,57,From Switchblade to Sword
-,58,The Duel with Spalko
-,59,Keeping Up with the Caravan
-,60,Dovchenko vs. Indy
-,61,Triple Peril Escape!
-,62,Behold: Akator Temple
-,63,The Walls Come Alive!
-,64,The City of Doom
-,65,Terror of the Ughas
-,66,Saved by the Skull
-,67,Secret of the Temple
-,68,The Sands of Time
-,69,Spalko's Wish Fulfilled
-,70,The Demise of an Old Friend
-,71,A Promotion for Dr. Jones
-,72,Indy Forever!
-,73,Secrets of Akator
-,74,Crashing Down
-,75,Dealing with Danger
-,76,Art of the Temple
-,77,Running Out of Time
-,78,The Hypnotic Skull
-,79,Two Lost Worlds
-,80,Up and Onward
-,81,Deadliest of Dangers
-,82,Examining the Crystal Skull
-,83,Temples and Raiders
-,84,A Lost City Found
-,85,Adventure Has a Name...
-,86,Trouble in Hangar 51
-,87,Challenge of Dovchenko
-,88,Saved by the Fridge
-,89,Atom-Age Adventurer
-,90,Checklist
+1,The Return of Dr. Jones
+2,Indiana Jones
+3,Mutt Williams
+4,Marion Ravenwood
+5,Dr. Irina Spalko
+6,"George ""Mac"" McHale"
+7,"Harold ""Ox"" Oxley"
+8,Colonel Dovchenko
+9,Dean Charles Stanforth
+10,General Ross
+11,Agent Smith
+12,Agent Taylor
+13,Desert Troopers
+14,Base under Siege!
+15,Prisoner of the Reds
+16,Two Battered Buddies
+17,Invading Hangar 51
+18,Mysterious Artifact
+19,Jones Unleashed
+20,Aiming for Action
+21,The Truth about Mac
+22,Score One for Indy!
+23,The Rocket Sled
+24,A Rocket Built for Two!
+25,Welcome to Doom Town
+26,Only One Way Out...
+27,"Howdy, Stranger!"
+28,The Destroyer of Worlds
+29,At Marshall College
+30,Is Indy a Commie?
+31,In Search of ... Himself
+32,A Shout for Help
+33,A Guy Called Mutt
+34,Indy Takes a Spin
+35,The Sedan Chase
+36,Nailing Mac
+37,Landing in the Library
+38,Heroes on the Run
+39,A new Adventure Begins
+40,So This Is Peru...
+41,Within Chauchilla Cemetery
+42,Into a Dark Domain
+43,Indy's Discovery
+44,Of Glory and Terror
+45,Protector of the Past
+46,Blow-Dart Attack
+47,The Interrogation
+48,Ox Holds the Key
+49,Mutt and Marion
+50,Trapped in the Sand Pit
+51,The Unsinkable Dr. Jones?
+52,Jungle Raiders
+53,Dr. Jones and Company
+54,Nailing Mac... Again!
+55,Against a One-Man Army
+56,Target: Marion!
+57,From Switchblade to Sword
+58,The Duel with Spalko
+59,Keeping Up with the Caravan
+60,Dovchenko vs. Indy
+61,Triple Peril Escape!
+62,Behold: Akator Temple
+63,The Walls Come Alive!
+64,The City of Doom
+65,Terror of the Ughas
+66,Saved by the Skull
+67,Secret of the Temple
+68,The Sands of Time
+69,Spalko's Wish Fulfilled
+70,The Demise of an Old Friend
+71,A Promotion for Dr. Jones
+72,Indy Forever!
+73,Secrets of Akator
+74,Crashing Down
+75,Dealing with Danger
+76,Art of the Temple
+77,Running Out of Time
+78,The Hypnotic Skull
+79,Two Lost Worlds
+80,Up and Onward
+81,Deadliest of Dangers
+82,Examining the Crystal Skull
+83,Temples and Raiders
+84,A Lost City Found
+85,Adventure Has a Name...
+86,Trouble in Hangar 51
+87,Challenge of Dovchenko
+88,Saved by the Fridge
+89,Atom-Age Adventurer
+90,Checklist
