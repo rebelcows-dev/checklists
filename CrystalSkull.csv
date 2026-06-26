@@ -94,7 +94,7 @@ card_number,card_name,subset
 89,Atom-Age Adventurer
 90,Checklist
 
-Foil Cards (1:6 packs)
+Foil Cards
 1 of 10,"(Indy [large] Mutt with sword)"
 2 of 10,(The Crystal Skull)
 3 of 10,"(Indy [large], Mutt on cycle)"
@@ -105,7 +105,7 @@ Foil Cards (1:6 packs)
 8 of 10,(Indy / title / Mutt)
 9 of 10,"(Skull, Indy with gun, Mutt with sword)"
 10 of 10,Indiana Jones - Trust Me - 1935
-"Peel & Reveal Trap/Treasure Cards (1:6 Retail packs)"
+Peel & Reveal Treasure Cards
 --,Crystal Skull! (montage Indy and Mutt; red/green border)
 --,Giant Fire Ants! (montage Indy and Mutt; red border)
 --,Holy Grail! (Indy portrait; red/green border)
@@ -115,25 +115,25 @@ Foil Cards (1:6 packs)
 --,Poison! (Indy with whip and sword; red border)
 --,Sankara Stone! (Indy with whip and sword red/green border)
 --,Ark of the Covenant
-"Foil Movie Cards (1:6 Target gravity-feed packs orange backs)"
+Foil Movie Cards Target orange backs
 F1,(Indy and soldiers)
 F2,(Indy wielding whip)
 F3,(Mutt on motorcycle)
 F4,(Indy and Mutt with flashlights)
 F5,(Indy and snake)
-"Foil Movie Cards (1:6 WalMart gravity-feed packs blue backs)"
+Foil Movie Cards Wal-mart blue backs"
 F1,
 F2,(Indy aiming gun)
 F3,(Mutt and Indy)
 F4,
 F5,
-"Foil Movie Cards (Dark Horse Comics orange-back set in poly bag)"
+Foil Movie Cards Dark Horse Comics orange-back
 F1,
 F2,
 F3,
 F4,
 F5,
-"Autograph Cards (1:78 Hobby packs)"
+Autograph Cards Hobby
 --,Karen Allen - Marion Ravenwood [right profile]
 --,Jim Broadbent - Dean Charles Stanforth
 --,Alan Dale - General Ross
@@ -149,10 +149,10 @@ F5,
 --,"Ray Winstone - George ""Mac"" McHale"
 --,"Shia LaBeouf and Karen Allen (1:551554 packs)"
 --,"Harrison Ford, Steven Spielberg, George Lucas"
-"Autograph Cards (1:100 Target/WalMart gravity-feed packs)"
+Autograph Cards Retail
 --,Karen Allen - Marion Ravenwood [face forward] (1:200 packs)
 --,Igor Jijikine - Colonel Dovchenko [face forward] (1:200 packs)
-"Artist Sketch Cards (1:35 Hobby packs)"
+Artist Sketch Cards
 --,Noah Albrecht
 --,Kyle Babbitt
 --,Paul Allan Ballard
@@ -246,7 +246,7 @@ P3,Indiana Jones (Indiana Jones Heritage Box-Topper)
 P4,Dr. Jones and Company
 P5,Within Chauchilla Cemetery
 --,(dealer sell sheet; double sided)
-"PARALLEL SKULL CARDS (1:24 packs; # to 350)"
+PARALLEL SKULL CARDS
 1,The Return of Dr. Jones
 2,Indiana Jones
 3,Mutt Williams
