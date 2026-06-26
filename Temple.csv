@@ -1,3 +1,7 @@
+year,1984
+manufacturer,Topps
+name,Indiana Jones and the Temple of Doom
+
 card_number,card_name,subset
 1,Indiana Jones and the Temple of Doom
 2,Singer Willie Scott
@@ -23,11 +27,11 @@ card_number,card_name,subset
 22,The Arrival
 23,The Palace Banquet
 24,The Little Maharajah
-25,"Dr. Jones, Banquet Guest"
+25,"Dr. Jones Banquet Guest"
 26,A Royal Feast?
 27,Losing Her Appetite
 28,Time Out for Romance
-29,"Look Out, Behind You!"
+29,"Look Out Behind You!"
 30,Peril in the Palace!
 31,Indy's Warning
 32,The Discovery
@@ -70,7 +74,7 @@ card_number,card_name,subset
 69,Breaking Free!
 70,Indy's Gamble
 71,Deadly Torrents
-72,"Hang on, Short Round!"
+72,"Hang on Short Round!"
 73,Saved by Willie Scott!
 74,The Evil of Mola Ram
 75,Don't Mess with Indy!
@@ -88,13 +92,13 @@ card_number,card_name,subset
 87,The Adventure Concludes
 88,Checklist
 1,Indiana Jones (cartoon),Stickers
-2,"How Much, Lao Che?"-Indy,Stickers
+2,"How Much Lao Che?"-Indy,Stickers
 3,The Goddess Kali reigns!-Mola Ram,Stickers
 4,There's No Escape--!-Indy,Stickers
-5,Food?,Really?-Willie Scott,Stickers
+5,Food? Really?-Willie Scott,Stickers
 6,Willie Scott,Stickers
 7,Mola Ram!,Stickers
 8,Short Round,Stickers
-9,Willie!,Hurry Up!-Indy,Stickers
+9,Willie! Hurry Up!-Indy,Stickers
 10,"You've Had It- Mola Ram!",Indy,Stickers
 11,Trust Me.-Indy,Stickers
